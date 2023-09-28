@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T23:27:54 IST" name="Default suite" finished-at="2023-08-28T23:28:14 IST" duration-ms="19152">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T23:27:54 IST" name="Default test" finished-at="2023-08-28T23:28:14 IST" duration-ms="19152">
+      <class name="POM_DDF_TestNG_Utilitylass_BaseClass.LoginTest">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:POM_DDF_TestNG_Utilitylass_BaseClass.LoginTest@60099951]" started-at="2023-08-28T23:27:54 IST" name="OpenBrowser" finished-at="2023-08-28T23:28:00 IST" duration-ms="5810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:POM_DDF_TestNG_Utilitylass_BaseClass.LoginTest@60099951]" started-at="2023-08-28T23:28:00 IST" name="login" finished-at="2023-08-28T23:28:11 IST" duration-ms="10591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyname()[pri:0, instance:POM_DDF_TestNG_Utilitylass_BaseClass.LoginTest@60099951]" started-at="2023-08-28T23:28:11 IST" name="verifyname" finished-at="2023-08-28T23:28:13 IST" duration-ms="2352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyname -->
+        <test-method is-config="true" signature="name()[pri:0, instance:POM_DDF_TestNG_Utilitylass_BaseClass.LoginTest@60099951]" started-at="2023-08-28T23:28:13 IST" name="name" finished-at="2023-08-28T23:28:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:POM_DDF_TestNG_Utilitylass_BaseClass.LoginTest@60099951]" started-at="2023-08-28T23:28:13 IST" name="closebrowser" finished-at="2023-08-28T23:28:14 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- POM_DDF_TestNG_Utilitylass_BaseClass.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
